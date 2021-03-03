@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[FragmentedIndexes] (Table)
+       [dbo].[Runners] (Table)
+       [dbo].[Statuses] (Table)
+       [dbo].[usp_CreateNewRunnerWithWatcher] (Procedure)
+       [dbo].[usp_DefragIndexes] (Procedure)
+       [dbo].[usp_GetFragmentedIndexes] (Procedure)
+
+** Supporting actions

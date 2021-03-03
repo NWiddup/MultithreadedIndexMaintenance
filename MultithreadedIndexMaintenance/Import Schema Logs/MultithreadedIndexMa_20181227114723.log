@@ -1,0 +1,82 @@
+28/12/18 10:47:23 AM	This log contains information about the import schema operation into project 'MultithreadedIndexMaintenance' on computer 'NWSL' by user 'nwiddup'.
+28/12/18 10:47:24 AM	Import of database schema has started.
+28/12/18 10:47:33 AM	Gathering database credentials
+28/12/18 10:47:33 AM	Gathering database options
+28/12/18 10:47:33 AM	Gathering users
+28/12/18 10:47:33 AM	Gathering roles
+28/12/18 10:47:33 AM	Gathering application roles
+28/12/18 10:47:33 AM	Gathering role memberships
+28/12/18 10:47:33 AM	Gathering filegroups
+28/12/18 10:47:33 AM	Gathering full-text catalogs
+28/12/18 10:47:33 AM	Gathering assemblies
+28/12/18 10:47:33 AM	Gathering certificates
+28/12/18 10:47:33 AM	Gathering asymmetric keys
+28/12/18 10:47:33 AM	Gathering symmetric keys
+28/12/18 10:47:33 AM	Gathering encrypted symmetric keys
+28/12/18 10:47:33 AM	Gathering schemas
+28/12/18 10:47:33 AM	Gathering XML schema collections
+28/12/18 10:47:33 AM	Gathering user-defined data types
+28/12/18 10:47:33 AM	Gathering user-defined types
+28/12/18 10:47:33 AM	Gathering table types
+28/12/18 10:47:33 AM	Gathering unique keys for table types
+28/12/18 10:47:33 AM	Gathering primary keys for table types
+28/12/18 10:47:33 AM	Gathering indexes for table types
+28/12/18 10:47:33 AM	Gathering check constraints for table types
+28/12/18 10:47:33 AM	Gathering default constraints for table types
+28/12/18 10:47:33 AM	Gathering partition functions
+28/12/18 10:47:33 AM	Gathering partition schemes
+28/12/18 10:47:33 AM	Gathering functions
+28/12/18 10:47:33 AM	Gathering encrypted functions
+28/12/18 10:47:33 AM	Gathering aggregates
+28/12/18 10:47:33 AM	Gathering procedures
+28/12/18 10:47:33 AM	Gathering encrypted procedures
+28/12/18 10:47:33 AM	Gathering tables
+28/12/18 10:47:33 AM	Gathering primary keys
+28/12/18 10:47:33 AM	Gathering unique constraints
+28/12/18 10:47:33 AM	Gathering foreign keys
+28/12/18 10:47:33 AM	Gathering default constraints
+28/12/18 10:47:33 AM	Gathering check constraints
+28/12/18 10:47:33 AM	Gathering views
+28/12/18 10:47:33 AM	Gathering encrypted views
+28/12/18 10:47:33 AM	Gathering indexes
+28/12/18 10:47:33 AM	Gathering statistics
+28/12/18 10:47:33 AM	Gathering full-text index stoplists
+28/12/18 10:47:33 AM	Gathering search property lists
+28/12/18 10:47:33 AM	Gathering search properties
+28/12/18 10:47:33 AM	Gathering full-text indexes
+28/12/18 10:47:33 AM	Gathering column store indexes
+28/12/18 10:47:33 AM	Gathering spatial indexes
+28/12/18 10:47:33 AM	Gathering XML indexes
+28/12/18 10:47:33 AM	Gathering Selective XML indexes
+28/12/18 10:47:33 AM	Gathering encrypted triggers
+28/12/18 10:47:33 AM	Gathering triggers
+28/12/18 10:47:33 AM	Gathering encrypted and clr ddl triggers
+28/12/18 10:47:33 AM	Gathering ddl triggers
+28/12/18 10:47:33 AM	Gathering synonyms
+28/12/18 10:47:33 AM	Gathering defaults
+28/12/18 10:47:33 AM	Gathering data constraint uddt bindings
+28/12/18 10:47:33 AM	Gathering rules
+28/12/18 10:47:33 AM	Gathering data constraint uddt bindings
+28/12/18 10:47:33 AM	Gathering message types
+28/12/18 10:47:33 AM	Gathering queues
+28/12/18 10:47:33 AM	Gathering contracts
+28/12/18 10:47:33 AM	Gathering services
+28/12/18 10:47:33 AM	Gathering event notifications
+28/12/18 10:47:33 AM	Gathering remote service bindings
+28/12/18 10:47:33 AM	Gathering broker priorities
+28/12/18 10:47:33 AM	Gathering signatures
+28/12/18 10:47:33 AM	Gathering data compression options
+28/12/18 10:47:33 AM	Gathering sequence types
+28/12/18 10:47:33 AM	Gathering security policies
+28/12/18 10:47:33 AM	Gather column encryption keys
+28/12/18 10:47:33 AM	Gathering column master keys
+28/12/18 10:47:33 AM	Gathering external data sources
+28/12/18 10:47:33 AM	Gathering external file formats
+28/12/18 10:47:33 AM	Gathering external tables
+28/12/18 10:47:33 AM	Gathering extended properties
+28/12/18 10:47:34 AM	Gathering credentials
+28/12/18 10:47:34 AM	Gathering logins
+28/12/18 10:47:34 AM	Gathering server audits
+28/12/18 10:47:34 AM	Finished importing database.
+28/12/18 10:47:34 AM	A summary of the import was saved to the following location: D:\Source\Repos\MultithreadedIndexMaintenance\MultithreadedIndexMaintenance\Import Schema Logs\MultithreadedIndexMa_20181227114723.log
+28/12/18 10:47:34 AM	Click Finish to continue...

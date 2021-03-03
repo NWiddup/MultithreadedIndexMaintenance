@@ -1,0 +1,11 @@
+D:\Source\Repos\MultithreadedIndexMaintenance\MultithreadedIndexMaintenance\bin\Debug\MultithreadedIndexMaintenance.dacpac
+D:\Source\Repos\MultithreadedIndexMaintenance\MultithreadedIndexMaintenance\bin\Debug\MultithreadedIndexMaintenance.dll
+D:\Source\Repos\MultithreadedIndexMaintenance\MultithreadedIndexMaintenance\bin\Debug\MultithreadedIndexMaintenance.pdb
+D:\Source\Repos\MultithreadedIndexMaintenance\MultithreadedIndexMaintenance\bin\Debug\msdb.dacpac
+D:\Source\Repos\MultithreadedIndexMaintenance\MultithreadedIndexMaintenance\obj\Debug\MultithreadedIndexMaintenance.dll
+D:\Source\Repos\MultithreadedIndexMaintenance\MultithreadedIndexMaintenance\obj\Debug\MultithreadedIndexMaintenance.pdb
+D:\Source\Repos\MultithreadedIndexMaintenance\MultithreadedIndexMaintenance\bin\Debug\master.dacpac
+D:\Source\Repos\MultithreadedIndexMaintenance\MultithreadedIndexMaintenance\obj\Debug\Model.xml
+D:\Source\Repos\MultithreadedIndexMaintenance\MultithreadedIndexMaintenance\obj\Debug\refactor.xml
+D:\Source\Repos\MultithreadedIndexMaintenance\MultithreadedIndexMaintenance\obj\Debug\postdeploy.sql
+D:\Source\Repos\MultithreadedIndexMaintenance\MultithreadedIndexMaintenance\obj\Debug\predeploy.sql
